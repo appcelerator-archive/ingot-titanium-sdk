@@ -1,0 +1,30 @@
+{
+	"name": "ingot-titanium-sdk",
+	"description": "An Ingot plugin that processes Titanium SDK related jobs.",
+	"keywords": [
+		"ingot"
+	],
+	"version": "0.1.0",
+	"ingot": {
+		"type": "plugin",
+		"api": "1.0"
+	},
+	"author": {
+		"name": "Appcelerator, Inc.",
+		"email": "npmjs@appcelerator.com"
+	},
+	"maintainers": [
+		{"name": "Chris Barber", "email": "cbarber@appcelerator.com"}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/appcelerator/ingot-titanium-sdk.git"
+	},
+	"dependencies": {
+	},
+	"license": "Apache Public License v2",
+	"main": "./index",
+	"engines": {
+		"node": ">=0.8"
+	}
+}
